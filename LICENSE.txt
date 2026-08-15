@@ -1,0 +1,18 @@
+NFILES RADIO — LICENÇA DE USO FREEWARE
+
+Copyright © 2026 NFiles. Todos os direitos reservados.
+
+É concedida uma licença gratuita, pessoal, não exclusiva e intransferível para instalar e utilizar o NFiles Radio
+em computadores Windows, para fins pessoais ou profissionais.
+
+O NFiles Radio é freeware de código proprietário. Não é permitido copiar, modificar, sublicenciar, vender,
+republicar ou redistribuir o aplicativo ou seu código. Compartilhe somente o endereço oficial de download.
+
+Não é permitido contornar proteções ou realizar engenharia reversa do código proprietário, exceto na extensão
+permitida por lei ou necessária para exercer direitos sobre componentes licenciados separadamente, inclusive LGPL.
+
+Bibliotecas de terceiros permanecem sujeitas às próprias licenças. Nada aqui restringe direitos concedidos por
+essas licenças. O aplicativo e seus componentes são fornecidos “no estado em que se encontram”, sem garantias.
+
+Ao instalar ou utilizar o NFiles Radio, o usuário declara aceitar estes termos. A versão completa desta licença e
+todos os avisos de terceiros acompanham o instalador.

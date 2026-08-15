@@ -1,0 +1,9 @@
+O instalador do NFiles Radio inclui componentes de terceiros licenciados separadamente:
+
+- LibVLCSharp e LibVLC: LGPL-2.1-or-later — https://code.videolan.org/videolan/LibVLCSharp
+- Microsoft .NET, WPF, Entity Framework Core e Microsoft.Data.Sqlite: MIT — https://github.com/dotnet
+- SQLitePCLRaw: Apache-2.0 — https://github.com/ericsink/SQLitePCL.raw
+- SQLite: domínio público — https://www.sqlite.org/copyright.html
+- Radio Browser: serviço remoto — https://docs.radio-browser.info/
+
+Os textos completos das licenças estão incluídos na pasta Licenses da instalação.
