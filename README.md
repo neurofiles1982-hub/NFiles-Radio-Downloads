@@ -40,6 +40,7 @@ licenças. Os textos e avisos acompanham o instalador.
 ## Segurança
 
 Baixe o programa somente pela seção Releases deste repositório. Não aceite instaladores enviados por terceiros.
+Consulte também a [Política de Privacidade](PRIVACY.md).
 
 ## Comunidade e suporte
 
@@ -64,3 +65,4 @@ private repository; this public repository contains official downloads, release 
 Requirements: Windows 10 or 11, 64-bit, with an internet connection.
 
 Station compatibility reports and suggestions are welcome through GitHub Issues. Please do not share personal data.
+See the [Privacy Policy](PRIVACY.md) for details about local data and network access.
