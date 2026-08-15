@@ -4,6 +4,12 @@
 
 Player gratuito, moderno e leve para ouvir rádios online no Windows 10 e 11.
 
+## Versão atual — 1.5
+
+A versão 1.5 apresenta uma experiência visual premium com identidade própria do NFiles, player inferior renovado,
+cards responsivos, melhor legibilidade e otimizações de inicialização e memória. A reprodução, busca, favoritos,
+históricos, backup e atualizações continuam integrados em uma aplicação nativa e leve.
+
 ## Recursos
 
 - Busca automática de rádios pela internet
@@ -48,6 +54,9 @@ rádio e, se possível, o país ou a cidade. Não publique dados pessoais.
 
 NFiles Radio is a free, modern and lightweight online radio player for Windows 10 and 11. It includes internet
 station search, favorites, playback history, custom stations, automatic reconnection and SHA-256 verified updates.
+
+Version 1.5 introduces a premium NFiles visual experience, a redesigned bottom player, responsive station cards,
+improved readability, and startup and memory optimizations while keeping the application native and lightweight.
 
 Download `NFilesRadio-Setup.exe` only from the official **Releases** section. The source code is maintained in a
 private repository; this public repository contains official downloads, release notes and user information.
