@@ -1,4 +1,4 @@
-# NFiles Radio
+# NFiles Radio — Free Internet Radio Player for Windows 10/11
 
 **Criado pela NFiles — Equipe de IA.**
 
