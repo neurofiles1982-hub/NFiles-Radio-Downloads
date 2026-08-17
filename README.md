@@ -1,4 +1,4 @@
-# NFiles Radio — Free Internet Radio Player for Windows 10/11
+# NFiles Radio —Player  de Radio Grátis para Windows 10/11
 
 **Criado pela NFiles — Equipe de IA.**
 
@@ -50,6 +50,8 @@ rádio e, se possível, o país ou a cidade. Não publique dados pessoais.
 ---
 
 ## English
+
+#NFiles Radio is a free Windows internet radio player for discovering, listening to and managing online radio stations
 
 **Created by NFiles — AI Team.**
 
