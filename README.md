@@ -49,8 +49,6 @@ rádio e, se possível, o país ou a cidade. Não publique dados pessoais.
 
 ---
 
-## English
-
 #NFiles Radio is a free Windows internet radio player for discovering, listening to and managing online radio stations
 
 **Created by NFiles — AI Team.**
