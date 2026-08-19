@@ -1,68 +1,87 @@
-# NFiles Radio —Player  de Radio Grátis para Windows 10/11
+NFILES RADIO
 
-**Criado pela NFiles — Equipe de IA.**
+Seu rádio, do seu jeito.
 
-Player gratuito, moderno e leve para ouvir rádios online no Windows 10 e 11.
+Free, modern and lightweight Internet Radio Player
+for Windows 10/11.
 
-## Versão atual — 1.5
+[ DOWNLOAD ] [ GITHUB ISSUES ]
 
-A versão 1.5 apresenta uma experiência visual premium com identidade própria do NFiles, player inferior renovado,
-cards responsivos, melhor legibilidade e otimizações de inicialização e memória. A reprodução, busca, favoritos,
-históricos, backup e atualizações continuam integrados em uma aplicação nativa e leve.
+────────────────────────────
 
-## Recursos
+🌎 DESCUBRA RÁDIOS
 
-- Busca automática de rádios pela internet
-- Favoritos e histórico de reprodução
-- Adição e exclusão de rádios personalizadas
-- Reconexão automática quando uma transmissão falha
-- Atualizações verificadas por SHA-256
+🔎 Busca de rádios
+⭐ Favoritos
+🕘 Histórico
+📻 Rádios personalizadas
+🔄 Reconexão automática
+🔐 Atualizações verificadas
 
-O NFiles Radio é distribuído como **freeware de código proprietário**. É gratuito para uso pessoal ou
-profissional, mas não é software open source. Consulte [LICENSE.txt](LICENSE.txt).
+────────────────────────────
 
-## Download
+🖥️ FEITO PARA WINDOWS
 
-Abra a seção **Releases** deste repositório e baixe `NFilesRadio-Setup.exe` da versão mais recente.
-O arquivo `NFilesRadio-Setup.exe.sha256` permite conferir a integridade do instalador.
+Windows 10 / Windows 11
+64-bit
 
-O código-fonte é mantido em um repositório privado. Este repositório público contém somente downloads oficiais,
-notas de versão e informações para usuários.
+[ SCREENSHOT PRINCIPAL ]
 
-Componentes como LibVLCSharp, LibVLC, .NET, Entity Framework Core, SQLite e SQLitePCLRaw mantêm suas próprias
-licenças. Os textos e avisos acompanham o instalador.
+────────────────────────────
 
-## Requisitos
+🎧 UMA EXPERIÊNCIA SIMPLES
 
-- Windows 10 ou Windows 11, 64 bits
-- Conexão com a internet
+Encontre.
+Ouça.
+Favorite.
 
-## Segurança
+────────────────────────────
 
-Baixe o programa somente pela seção Releases deste repositório. Não aceite instaladores enviados por terceiros.
-Consulte também a [Política de Privacidade](PRIVACY.md).
+📻 SUAS RÁDIOS
 
-## Comunidade e suporte
+Adicione estações personalizadas
+e mantenha tudo organizado.
 
-Encontrou uma rádio que não toca ou tem uma sugestão? Abra uma **Issue** neste repositório informando o nome da
-rádio e, se possível, o país ou a cidade. Não publique dados pessoais.
+────────────────────────────
 
----
+✨ VERSÃO 1.5
 
-#NFiles Radio is a free Windows internet radio player for discovering, listening to and managing online radio stations
+Nova experiência visual NFiles
+Player inferior renovado
+Cards responsivos
+Melhor legibilidade
+Otimizações de inicialização
+Otimizações de memória
 
-**Created by NFiles — AI Team.**
+────────────────────────────
 
-NFiles Radio is a free, modern and lightweight online radio player for Windows 10 and 11. It includes internet
-station search, favorites, playback history, custom stations, automatic reconnection and SHA-256 verified updates.
+🔐 SEGURANÇA
 
-Version 1.5 introduces a premium NFiles visual experience, a redesigned bottom player, responsive station cards,
-improved readability, and startup and memory optimizations while keeping the application native and lightweight.
+Baixe somente pelas Releases oficiais.
 
-Download `NFilesRadio-Setup.exe` only from the official **Releases** section. The source code is maintained in a
-private repository; this public repository contains official downloads, release notes and user information.
+SHA-256 disponível para verificação
+do instalador.
 
-Requirements: Windows 10 or 11, 64-bit, with an internet connection.
+────────────────────────────
 
-Station compatibility reports and suggestions are welcome through GitHub Issues. Please do not share personal data.
-See the [Privacy Policy](PRIVACY.md) for details about local data and network access.
+💬 FEEDBACK
+
+Encontrou uma rádio que não funciona?
+Tem uma sugestão?
+
+Abra uma Issue.
+
+────────────────────────────
+
+📥 DOWNLOAD
+
+NFiles Radio
+Windows 10/11 64-bit
+
+[ BAIXAR ]
+
+────────────────────────────
+
+NFILES RADIO
+
+Free • Modern • Lightweight
