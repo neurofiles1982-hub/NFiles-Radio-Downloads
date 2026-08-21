@@ -2,7 +2,7 @@
 
 ## 1.6.0 — Windows Experience
 
-- Temas Sistema, Claro e Escuro.
+- Identidade visual escura preservada e refinada.
 - Inicialização opcional minimizada na bandeja.
 - Reprodução em segundo plano configurável.
 - Teclas multimídia para Play/Pause, parar e volume.

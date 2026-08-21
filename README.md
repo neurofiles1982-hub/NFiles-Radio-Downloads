@@ -27,7 +27,7 @@ O NFiles Radio permite pesquisar e ouvir estações de internet sem depender de 
 - Identificação da música quando a emissora fornece metadados.
 - Reconexão automática em falhas temporárias do stream.
 - Bandeja do Windows com Play/Pause, volume, favoritos e temporizador.
-- Temas claro, escuro e automático conforme o Windows.
+- Identidade visual escura consistente com a marca NFiles.
 - Teclas multimídia, notificações opcionais e início minimizado.
 - Backup de estações e favoritos.
 
@@ -35,7 +35,7 @@ O NFiles Radio permite pesquisar e ouvir estações de internet sem depender de 
 
 A versão 1.6 amplia a integração com o Windows:
 
-- escolha entre tema do sistema, claro ou escuro;
+- identidade visual escura preservada e refinada;
 - inicialização opcional minimizada;
 - reprodução em segundo plano configurável;
 - controles pelas teclas multimídia;
