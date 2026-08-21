@@ -1,0 +1,31 @@
+name: Relatar um bug
+description: Informe um problema reproduzível no NFiles Radio
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Versão do NFiles Radio
+      placeholder: "1.6.0"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Versão do Windows
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: O que aconteceu?
+      description: Informe também o resultado esperado.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para reproduzir
+    validations:
+      required: true

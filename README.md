@@ -1,87 +1,69 @@
-NFILES RADIO
+# NFiles Radio
 
-Seu rádio, do seu jeito.
+<p align="center">
+  <img src="assets/nfiles-radio-showcase.png" alt="NFiles Radio para Windows" width="100%">
+</p>
 
-Free, modern and lightweight Internet Radio Player
-for Windows 10/11.
+<p align="center"><strong>Seu rádio, do seu jeito.</strong><br>Player gratuito, moderno e leve para Windows 10 e 11.</p>
 
-[ [⬇️ BAIXAR NFILES RADIO](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest)] [ GITHUB ISSUES ]
+<p align="center">
+  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest"><strong>Baixar versão mais recente</strong></a> ·
+  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/issues">Relatar um problema</a> ·
+  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/discussions">Comunidade</a>
+</p>
 
-────────────────────────────
+## Conheça o NFiles Radio
 
-🌎 DESCUBRA RÁDIOS
+O NFiles Radio permite pesquisar e ouvir estações de internet sem depender de navegador incorporado. O aplicativo organiza favoritos, registra estações e músicas ouvidas e continua tocando discretamente pela bandeja do Windows.
 
-🔎 Busca de rádios
-⭐ Favoritos
-🕘 Histórico
-📻 Rádios personalizadas
-🔄 Reconexão automática
-🔐 Atualizações verificadas
+<p align="center">
+  <img src="assets/nfiles-radio-navigation.gif" alt="Navegação pelo NFiles Radio" width="82%">
+</p>
 
-────────────────────────────
+## Principais recursos
 
-🖥️ FEITO PARA WINDOWS
+- Pesquisa por nome, gênero, cidade, estado e país.
+- Favoritos, histórico e estações personalizadas.
+- Identificação da música quando a emissora fornece metadados.
+- Reconexão automática em falhas temporárias do stream.
+- Bandeja do Windows com Play/Pause, volume, favoritos e temporizador.
+- Temas claro, escuro e automático conforme o Windows.
+- Teclas multimídia, notificações opcionais e início minimizado.
+- Backup de estações e favoritos.
 
-Windows 10 / Windows 11
-64-bit
+## Versão 1.6 — Windows Experience
 
-[ SCREENSHOT PRINCIPAL ]
+A versão 1.6 amplia a integração com o Windows:
 
-────────────────────────────
+- escolha entre tema do sistema, claro ou escuro;
+- inicialização opcional minimizada;
+- reprodução em segundo plano configurável;
+- controles pelas teclas multimídia;
+- favoritos diretamente no menu da bandeja;
+- melhorias de confiabilidade e persistência do volume.
 
-🎧 UMA EXPERIÊNCIA SIMPLES
+Veja todas as mudanças no [histórico de versões](CHANGELOG.md) e os próximos estudos no [roadmap público](ROADMAP.md).
 
-Encontre.
-Ouça.
-Favorite.
+## Instalação segura
 
-────────────────────────────
+1. Abra a página de [Releases](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest).
+2. Baixe `NFilesRadio-Setup.exe` e `NFilesRadio-Setup.exe.sha256`.
+3. Confira a integridade no PowerShell:
 
-📻 SUAS RÁDIOS
+```powershell
+(Get-FileHash .\NFilesRadio-Setup.exe -Algorithm SHA256).Hash.ToLowerInvariant()
+```
 
-Adicione estações personalizadas
-e mantenha tudo organizado.
+Compare o resultado com o arquivo `.sha256`. Não baixe instaladores publicados fora deste repositório ou da Microsoft Store.
 
-────────────────────────────
+## Requisitos
 
-✨ VERSÃO 1.5
+- Windows 10 ou Windows 11
+- Processador x64
+- Conexão com a internet
 
-Nova experiência visual NFiles
-Player inferior renovado
-Cards responsivos
-Melhor legibilidade
-Otimizações de inicialização
-Otimizações de memória
+## Privacidade e suporte
 
-────────────────────────────
+O NFiles Radio não exige conta, não exibe anúncios e não inclui telemetria própria. Leia a [Política de Privacidade](PRIVACY.md), consulte o [Suporte](SUPPORT.md) e nunca publique dados pessoais ou detalhes exploráveis de segurança em uma Issue.
 
-🔐 SEGURANÇA
-
-Baixe somente pelas Releases oficiais.
-
-SHA-256 disponível para verificação
-do instalador.
-
-────────────────────────────
-
-💬 FEEDBACK
-
-Encontrou uma rádio que não funciona?
-Tem uma sugestão?
-
-Abra uma Issue.
-
-────────────────────────────
-
-📥 DOWNLOAD
-
-NFiles Radio
-Windows 10/11 64-bit
-
-[ BAIXAR ]
-
-────────────────────────────
-
-NFILES RADIO
-
-Free • Modern • Lightweight
+> Este é o repositório público oficial de downloads e comunidade. O código-fonte é mantido em repositório privado.

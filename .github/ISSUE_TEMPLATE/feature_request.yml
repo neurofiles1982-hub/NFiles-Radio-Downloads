@@ -1,0 +1,17 @@
+name: Sugerir uma melhoria
+description: Compartilhe uma ideia para o NFiles Radio
+title: "[Ideia]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Qual problema a ideia resolve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Solução sugerida
+    validations:
+      required: true
