@@ -1,0 +1,10 @@
+windows
+radio-player
+streaming
+windows-11
+windows-10
+desktop-application
+media-player
+free-software
+privacy-first
+open-source
