@@ -10,10 +10,10 @@
     "multimedia",
     "player",
     "internet-radio",
-    "free-software",
+    "freeware",
     "privacy",
     "no-ads"
   ],
-  "description": "Free internet radio player for Windows 10/11 — 40k+ stations, no ads, no telemetry",
-  "homepage": "https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads"
+  "description": "NFiles Radio para Windows — rádios online, músicas locais, interface moderna, sem anúncios e disponível na Microsoft Store.",
+  "homepage": "https://apps.microsoft.com/detail/9MW0J3ZXXS1H"
 }

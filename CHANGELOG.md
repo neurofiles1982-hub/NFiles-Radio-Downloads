@@ -1,5 +1,21 @@
 # Histórico de versões
 
+## 2.0.3 — Microsoft Store e experiência musical completa
+
+- Disponibilidade pela Microsoft Store e instalador EXE com atualização integrada.
+- Nova identidade visual com o robô azul em todo o aplicativo.
+- Biblioteca de músicas com capas, remoção de itens e reprodução otimizada.
+- Player expandido e miniplayer com arte e controles completos.
+- Barra de progresso, volume, velocidade e avisos com visual padronizado.
+- Inclusão de múltiplas rádios com proteção de desempenho.
+- Busca de capas condicionada à autorização do usuário.
+
+## 2.0.2
+
+- Melhorias na reprodução de rádios, favoritos e histórico.
+- Refinamento da interface e da navegação.
+- Preparação da infraestrutura de atualização.
+
 ## 1.6.0 — Windows Experience
 
 - Identidade visual escura preservada e refinada.

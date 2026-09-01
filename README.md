@@ -1,184 +1,123 @@
-# NFiles Radio
+# NFiles Radio 2.0.3
 
 <p align="center">
-  <img src="assets/nfiles-radio-showcase.png" alt="NFiles Radio para Windows" width="100%">
+  <img src="assets/nfiles-radio-2.0.3-radios.png" alt="NFiles Radio 2.0.3 — rádios e player" width="920">
 </p>
 
 <p align="center">
-  <strong>Seu rádio, do seu jeito.</strong><br>
-  Player gratuito, moderno e leve para Windows 10 e 11 • Sem anúncios • Sem telemetria
+  <strong>Rádios online e suas músicas em um só aplicativo para Windows.</strong><br>
+  Gratuito, moderno, sem anúncios e sem telemetria.
 </p>
 
 <p align="center">
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest">
-    <img alt="Downloads" src="https://img.shields.io/github/downloads/neurofiles1982-hub/NFiles-Radio-Downloads/total?style=flat-square&color=0066cc">
-  </a>
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest">
-    <img alt="Release" src="https://img.shields.io/github/v/release/neurofiles1982-hub/NFiles-Radio-Downloads?style=flat-square&color=0066cc">
-  </a>
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/license-Proprietary-blue?style=flat-square">
-  </a>
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/discussions">
-    <img alt="Community" src="https://img.shields.io/badge/chat-Discord%20Community-7289da?style=flat-square">
-  </a>
+  <a href="https://apps.microsoft.com/detail/9MW0J3ZXXS1H"><strong>🛍️ INSTALAR PELA MICROSOFT STORE</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest/download/NFilesRadio-Setup.exe"><strong>⬇️ BAIXAR INSTALADOR EXE</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest"><strong>📥 Baixar Agora</strong></a> •
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/issues"><strong>🐛 Reportar Bug</strong></a> •
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/discussions"><strong>💬 Comunidade</strong></a> •
-  <a href="#-roadmap"><strong>🗺️ Roadmap</strong></a>
+  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest"><img alt="Versão mais recente" src="https://img.shields.io/github/v/release/neurofiles1982-hub/NFiles-Radio-Downloads?style=for-the-badge&label=vers%C3%A3o&color=159f85"></a>
+  <a href="https://apps.microsoft.com/detail/9MW0J3ZXXS1H"><img alt="Disponível na Microsoft Store" src="https://img.shields.io/badge/Microsoft%20Store-dispon%C3%ADvel-0078D4?style=for-the-badge&logo=microsoftstore&logoColor=white"></a>
+  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest"><img alt="Downloads" src="https://img.shields.io/github/downloads/neurofiles1982-hub/NFiles-Radio-Downloads/total?style=for-the-badge&label=downloads&color=159f85"></a>
 </p>
 
----
+## Escolha como instalar
 
-## 🎵 Por que NFiles Radio?
+### Microsoft Store — recomendado
 
-Cansado de ouvir rádio pelo navegador? **NFiles Radio** é diferente:
+Use a [página oficial do NFiles Radio na Microsoft Store](https://apps.microsoft.com/detail/9MW0J3ZXXS1H). A Store verifica o pacote, simplifica a instalação e cuida das próximas atualizações automaticamente.
 
-✅ **100% Gratuito** — Sem versão paga, sem premium  
-✅ **Privado por Padrão** — Sem telemetria, sem rastreamento, sem anúncios  
-✅ **Leve e Rápido** — Consome poucos recursos do seu PC  
-✅ **Interface Moderna** — Dark mode consistente com Windows  
-✅ **Funciona de Verdade** — Reconexão automática, suporte a 40.000+ estações  
-✅ **Comunidade Ativa** — Desenvolvido com feedback real dos usuários  
+### Instalador EXE — download direto
 
----
+Baixe o [NFilesRadio-Setup.exe](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest/download/NFilesRadio-Setup.exe). Esta edição verifica novas versões neste repositório e avisa quando houver atualização.
 
-## 📺 Conheça o NFiles Radio
+Para conferir a integridade do download, use o arquivo [SHA-256](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest/download/NFilesRadio-Setup.exe.sha256).
 
-O NFiles Radio permite pesquisar e ouvir estações de internet sem depender de navegador incorporado. O aplicativo organiza favoritos, registra estações e músicas ouvidas e continua tocando durante atualizações do Windows.
+> Não instale as duas edições ao mesmo tempo. Escolha Microsoft Store ou EXE. As atualizações da edição da Store são gerenciadas pela própria Microsoft Store.
 
-<p align="center">
-  <img src="assets/nfiles-radio-navigation.gif" alt="Navegação pelo NFiles Radio" width="82%">
-</p>
+## O que você encontra no aplicativo
 
----
+- Busca e reprodução de rádios online.
+- Inclusão de quantas estações o usuário quiser, com carregamento otimizado.
+- Favoritos, histórico e organização das rádios.
+- Player de músicas locais com capa, progresso e duração.
+- Controles de reproduzir, pausar, voltar, avançar, favorito, volume e velocidade.
+- Player expandido e miniplayer com arte da faixa atual.
+- Busca de capas com confirmação do usuário antes de alterar os arquivos.
+- Interface moderna, consistente e adaptada ao Windows 10 e 11.
+- Sem anúncios e sem coleta de telemetria.
 
-## ⭐ Principais recursos
+## Veja o NFiles Radio
 
-- 🔍 **Pesquisa Avançada** — Por nome, gênero, cidade, estado e país
-- ❤️ **Favoritos & Histórico** — Salve suas estações preferidas e histórico de músicas
-- 🎵 **Identificação de Música** — Mostra a música que está tocando (quando disponível)
-- 🔄 **Reconexão Automática** — Recupera-se de falhas temporárias do stream
-- 🎛️ **Bandeja do Windows** — Controles Play/Pause, volume, favoritos e temporizador
-- 🌙 **Dark Mode Nativo** — Identidade visual escura consistente com Windows
-- ⌨️ **Controles Multimídia** — Use as teclas de mídia do seu teclado
-- 📳 **Notificações Opcionais** — Receba alertas personalizados
-- 💾 **Backup Automático** — Estações e favoritos sempre sincronizados
-- ✨ **Início Minimizado** — Inicie discretamente na bandeja
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/nfiles-radio-2.0.3-radios.png" alt="Tela de rádios do NFiles Radio"><br>
+      <strong>Rádios e reprodução</strong><br>
+      Navegue pelas estações e controle a reprodução sem sair da tela.
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/nfiles-radio-2.0.3-adicionar-radios.png" alt="Busca e inclusão de rádios"><br>
+      <strong>Adicione novas rádios</strong><br>
+      Pesquise e inclua várias estações na sua coleção.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/nfiles-radio-2.0.3-musicas.png" alt="Biblioteca de músicas locais"><br>
+      <strong>Suas músicas</strong><br>
+      Biblioteca local com capas, informações das faixas e remoção da lista.
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/nfiles-radio-2.0.3-player-expandido.png" alt="Player de música expandido"><br>
+      <strong>Player expandido</strong><br>
+      Arte em destaque, linha do tempo e controles completos.
+    </td>
+  </tr>
+</table>
 
----
+## Novidades da versão 2.0.3
 
-## 🚀 Versão 1.6 — Windows Experience
+- Novo visual com o robô azul em todo o aplicativo.
+- Capas na biblioteca e arte da música no miniplayer.
+- Controles completos de música no player e no miniplayer.
+- Player expansível no espaço da lista.
+- Barra de progresso, volume e seleção de velocidade redesenhados.
+- Inclusão múltipla de rádios com proteção de desempenho.
+- Padronização visual dos controles e avisos.
+- Pacote preparado para distribuição pela Microsoft Store.
 
-A versão 1.6 amplia a integração com o Windows:
+Consulte todas as versões em [Releases](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases).
 
-- ✨ Identidade visual escura preservada e refinada
-- 🔒 Inicialização opcional minimizada
-- 🔊 Reprodução em segundo plano configurável
-- ⌨️ Controles pelas teclas multimídia
-- ❤️ Favoritos diretamente no menu da bandeja
-- 🛡️ Melhorias de confiabilidade e persistência do volume
+## Requisitos
 
-👉 Veja todas as mudanças no [histórico completo](CHANGELOG.md) e os próximos recursos no [roadmap público](ROADMAP.md).
+- Windows 10 versão 1809 ou mais recente, ou Windows 11.
+- Computador com arquitetura x64.
+- Conexão com a internet para rádios, busca de estações, capas e atualizações.
+- Aproximadamente 500 MB de espaço disponível.
+- Teclado e mouse; controles multimídia compatíveis também podem ser usados.
 
----
+## Privacidade e permissões
 
-## 📥 Instalação Segura
+O NFiles Radio não exibe anúncios e não coleta telemetria. O aplicativo acessa a internet para reproduzir rádios e consultar serviços utilizados por suas funções. Arquivos de música permanecem no computador. Mudanças de capa só acontecem após a permissão do usuário.
 
-### Opção 1: Download Direto
+Leia a [Política de Privacidade](PRIVACY.md) e a [Licença de Uso](LICENSE.txt).
 
-1. Acesse a página de [Releases](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest)
-2. Baixe `NFilesRadio-Setup.exe` e `NFilesRadio-Setup.exe.sha256`
-3. Valide a integridade no PowerShell:
+## Ajuda
 
-```powershell
-(Get-FileHash .\NFilesRadio-Setup.exe -Algorithm SHA256).Hash.ToLowerInvariant()
-```
+- [Relatar um problema](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/issues/new)
+- [Página de suporte](SUPPORT.md)
+- [Histórico de versões](CHANGELOG.md)
 
-Compare o resultado com o arquivo `.sha256`.
+Ao relatar um erro, informe a versão do NFiles Radio, a versão do Windows e os passos que causaram o problema.
 
-### Opção 2: Microsoft Store (em breve)
+## Licença
 
-Compatível com Windows 10 1909+ e Windows 11.
-
-⚠️ **Aviso de Segurança:** Nunca baixe instaladores fora deste repositório ou da Microsoft Store. Proteja sua segurança!
-
----
-
-## 💻 Requisitos
-
-| Requisito | Mínimo |
-|-----------|--------|
-| **Sistema Operacional** | Windows 10 (v1909+) / Windows 11 |
-| **Processador** | x64 |
-| **RAM** | 512 MB |
-| **Conexão** | Internet (obrigatória) |
-| **Espaço em Disco** | ~50 MB |
-
----
-
-## 🔐 Privacidade e Segurança
-
-O NFiles Radio **respeita sua privacidade**:
-
-- ✅ Nenhuma conta necessária
-- ✅ Nenhuma telemetria própria
-- ✅ Nenhum anúncio
-- ✅ Código aberto para segurança
-
-📖 Leia a [Política de Privacidade Completa](PRIVACY.md)
-
----
-
-## 💬 Comunidade & Suporte
-
-- **Reportar um Bug?** → [GitHub Issues](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/issues)
-- **Sugerir uma Feature?** → [GitHub Discussions](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/discussions)
-- **Precisa de Ajuda?** → [Guia de Suporte](SUPPORT.md)
-
----
-
-## 🗺️ Roadmap
-
-Confira o [roadmap público](ROADMAP.md) para ver os recursos planejados:
-
-- [ ] Sincronização em nuvem de favoritos
-- [ ] Plugins e extensibilidade
-- [ ] Suporte a múltiplas instâncias
-- [ ] Integração com Spotify
-- [ ] Versão mobile (Android/iOS)
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stars](https://img.shields.io/github/stars/neurofiles1982-hub/NFiles-Radio-Downloads?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/neurofiles1982-hub/NFiles-Radio-Downloads?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/neurofiles1982-hub/NFiles-Radio-Downloads)
-![GitHub Discussions](https://img.shields.io/github/discussions/neurofiles1982-hub/NFiles-Radio-Downloads)
-
----
-
-## ⚖️ Licença & Termos
-
-> Este é o repositório público oficial de downloads e comunidade. O código-fonte é mantido em repositório privado.
-
-Leia a [Licença Completa](LICENSE) para detalhes legais.
-
----
-
-## 🙏 Agradecimentos
-
-- Obrigado aos usuários beta que ajudaram a melhorar o NFiles Radio
-- Agradecimentos especiais à comunidade de radio.garden
-- Desenvolvido com ❤️ no Brasil
+O NFiles Radio é freeware com código proprietário. O uso pessoal e profissional do aplicativo é permitido conforme os termos da licença, mas copiar, modificar, redistribuir ou vender o código e os arquivos internos não é permitido. Consulte o arquivo [LICENSE.txt](LICENSE.txt).
 
 ---
 
 <p align="center">
-  <strong>Gostou? Dê uma ⭐ para nos ajudar!</strong><br>
-  <sub>NFiles Radio © 2024 • Desenvolvido com amor para fãs de rádio</sub>
+  Desenvolvido por <strong>Neuro Files technologies Inc.</strong><br>
+  © 2026 — Todos os direitos reservados.
 </p>
