@@ -10,30 +10,27 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.microsoft.com/detail/9MW0J3ZXXS1H"><strong>🛍️ INSTALAR PELA MICROSOFT STORE</strong></a>
-  &nbsp;•&nbsp;
   <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest/download/NFilesRadio-Setup.exe"><strong>⬇️ BAIXAR INSTALADOR EXE</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest"><img alt="Versão mais recente" src="https://img.shields.io/github/v/release/neurofiles1982-hub/NFiles-Radio-Downloads?style=for-the-badge&label=vers%C3%A3o&color=159f85"></a>
-  <a href="https://apps.microsoft.com/detail/9MW0J3ZXXS1H"><img alt="Disponível na Microsoft Store" src="https://img.shields.io/badge/Microsoft%20Store-dispon%C3%ADvel-0078D4?style=for-the-badge&logo=microsoftstore&logoColor=white"></a>
-  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest"><img alt="Downloads" src="https://img.shields.io/github/downloads/neurofiles1982-hub/NFiles-Radio-Downloads/total?style=for-the-badge&label=downloads&color=159f85"></a>
+  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest"><img alt="Versão mais recente" src="https://img.shields.io/github/v/release/neurofiles1982-hub/NFiles-Radio-Downloads?style=for-the-badge&color=blue"></a>
+  <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest"><img alt="Downloads" src="https://img.shields.io/github/downloads/neurofiles1982-hub/NFiles-Radio-Downloads/total?style=for-the-badge&color=green"></a>
 </p>
 
 ## Escolha como instalar
 
-### Microsoft Store — recomendado
-
-Use a [página oficial do NFiles Radio na Microsoft Store](https://apps.microsoft.com/detail/9MW0J3ZXXS1H). A Store verifica o pacote, simplifica a instalação e cuida das próximas atualizações automaticamente.
-
 ### Instalador EXE — download direto
 
-Baixe o [NFilesRadio-Setup.exe](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest/download/NFilesRadio-Setup.exe). Esta edição verifica novas versões neste repositório e avisa quando houver atualização.
+Baixe o [NFilesRadio-Setup.exe](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest/download/NFilesRadio-Setup.exe). Esta edição verifica novas versões neste repositório e notifica quando há atualizações disponíveis.
 
 Para conferir a integridade do download, use o arquivo [SHA-256](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases/latest/download/NFilesRadio-Setup.exe.sha256).
 
-> Não instale as duas edições ao mesmo tempo. Escolha Microsoft Store ou EXE. As atualizações da edição da Store são gerenciadas pela própria Microsoft Store.
+### Microsoft Store — em breve
+
+O NFiles Radio está em processo de aprovação na Microsoft Store. Acompanhe este repositório para novidades sobre disponibilidade.
+
+> Atualmente, use o instalador EXE para instalar o NFiles Radio.
 
 ## O que você encontra no aplicativo
 
@@ -99,7 +96,7 @@ Consulte todas as versões em [Releases](https://github.com/neurofiles1982-hub/N
 
 ## Privacidade e permissões
 
-O NFiles Radio não exibe anúncios e não coleta telemetria. O aplicativo acessa a internet para reproduzir rádios e consultar serviços utilizados por suas funções. Arquivos de música permanecem no computador. Mudanças de capa só acontecem após a permissão do usuário.
+O NFiles Radio não exibe anúncios e não coleta telemetria. O aplicativo acessa a internet para reproduzir rádios e consultar serviços utilizados por suas funções. Arquivos de música permanecem armazenados apenas localmente no seu computador.
 
 Leia a [Política de Privacidade](PRIVACY.md) e a [Licença de Uso](LICENSE.txt).
 
@@ -113,7 +110,7 @@ Ao relatar um erro, informe a versão do NFiles Radio, a versão do Windows e os
 
 ## Licença
 
-O NFiles Radio é freeware com código proprietário. O uso pessoal e profissional do aplicativo é permitido conforme os termos da licença, mas copiar, modificar, redistribuir ou vender o código e os arquivos internos não é permitido. Consulte o arquivo [LICENSE.txt](LICENSE.txt).
+O NFiles Radio é freeware com código proprietário. O uso pessoal e profissional do aplicativo é permitido conforme os termos da licença, mas copiar, modificar, redistribuir ou vender o código ou compilados é proibido.
 
 ---
 
