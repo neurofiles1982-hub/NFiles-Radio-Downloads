@@ -12,6 +12,8 @@
 - Contraste, menus, seletores, avisos, tooltips e navegação em telas menores revisados.
 - Central profissional de Ajuda, Suporte, FAQ e Privacidade acessível pelo aplicativo.
 - Validação reforçada de URLs externas e dependências auditadas.
+- Pesquisa restaurada em todas as telas, com texto visível, foco completo no campo e busca direta a partir da página inicial.
+- Velocidade do player local sincronizada após a abertura de cada faixa para impedir reprodução acelerada inesperada.
 
 ## 2.0.3 — Microsoft Store e experiência musical completa
 
