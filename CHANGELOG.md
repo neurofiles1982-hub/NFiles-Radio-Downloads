@@ -1,5 +1,18 @@
 # Histórico de versões
 
+## 2.1.0 — Descoberta, contexto e acabamento visual
+
+- Nova página inicial com favoritos, rádios recentes e estado da reprodução.
+- Surpreenda-me, estações semelhantes, recomendações locais e Modo Descoberta compacto.
+- Busca por país, estado, gênero, qualidade e popularidade.
+- Informações ampliadas das emissoras, incluindo idioma, codec, bitrate, localização, site e stream quando disponíveis.
+- Cards compartilháveis em PNG com QR Code gerado localmente.
+- Reprodução preservada durante o descanso da tela do Windows.
+- Temas claro, escuro e do sistema, cores de destaque e densidade ajustável.
+- Contraste, menus, seletores, avisos, tooltips e navegação em telas menores revisados.
+- Central profissional de Ajuda, Suporte, FAQ e Privacidade acessível pelo aplicativo.
+- Validação reforçada de URLs externas e dependências auditadas.
+
 ## 2.0.3 — Microsoft Store e experiência musical completa
 
 - Disponibilidade pela Microsoft Store e instalador EXE com atualização integrada.
