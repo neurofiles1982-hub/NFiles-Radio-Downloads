@@ -1,4 +1,4 @@
-# NFiles Radio 2.1
+# NFiles Radio 2.2
 
 <p align="center">
   <img src="assets/nfiles-radio-showcase.png" alt="NFiles Radio para Windows" width="920">
@@ -23,7 +23,11 @@
 
 O NFiles Radio reúne estações online e arquivos de música do computador em um único aplicativo. A interface foi desenhada para permanecer clara e rápida mesmo com bibliotecas grandes, com reprodução em segundo plano, miniplayer, controles pela bandeja do Windows e reconexão automática para streams instáveis.
 
-### Destaques da versão 2.1
+### Destaques da versão 2.2
+
+- Letras sincronizadas ao lado da capa ampliada, com destaque e rolagem automáticos.
+- Fontes locais `.lrc`, letras incorporadas e `.txt`, além de busca opcional no LRCLIB.
+- Clique em uma linha para avançar a música e ajuste persistente da sincronia.
 
 - **Descoberta inteligente:** Surpreenda-me, estações semelhantes, recomendações locais e Modo Descoberta compacto.
 - **Busca completa:** filtros por país, estado, gênero, qualidade e popularidade.

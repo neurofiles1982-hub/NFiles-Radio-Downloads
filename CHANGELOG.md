@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 2.2.0 — Letras sincronizadas
+
+- Painel de letras integrado à tela da capa ampliada.
+- Sincronização por linha, rolagem automática, navegação e ajuste de tempo.
+- Fontes locais `.lrc`, letras incorporadas e `.txt`.
+- Busca opcional no LRCLIB com consentimento, correspondência rigorosa e limites de segurança.
+
 ## 2.1.0 — Descoberta, contexto e acabamento visual
 
 - Nova página inicial com favoritos, rádios recentes e estado da reprodução.
