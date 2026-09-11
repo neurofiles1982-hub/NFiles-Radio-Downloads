@@ -8,3 +8,7 @@ media-player
 freeware
 privacy-first
 microsoft-store
+music-player
+lyrics
+dotnet
+wpf

@@ -12,7 +12,11 @@
     "internet-radio",
     "freeware",
     "privacy",
-    "no-ads"
+    "no-ads",
+    "music-player",
+    "lyrics",
+    "dotnet",
+    "wpf"
   ],
   "description": "NFiles Radio para Windows — rádios online, músicas locais, interface moderna, sem anúncios e disponível na Microsoft Store.",
   "homepage": "https://apps.microsoft.com/detail/9MW0J3ZXXS1H"

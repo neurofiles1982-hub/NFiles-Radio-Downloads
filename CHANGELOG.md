@@ -1,5 +1,19 @@
 # Histórico de versões
 
+## 2.3.0 — Player leve, letras e experiência refinada
+
+- Reprodução gapless para músicas locais compatíveis usando uma saída de áudio persistente.
+- ReplayGain por faixa ou álbum, com proteção contra clipping e sem alterar os arquivos.
+- Capa translúcida no fundo do player expandido, preservada com ou sem letras.
+- Motor de música carregado sob demanda e buffer aprimorado para troca de aplicativos e reprodução minimizada.
+- Correções de engasgos, ruído e compatibilidade de inicialização do áudio no Windows.
+- Histórico consolidado por emissora; excluir remove duplicatas antigas sem afetar coleções.
+- Aviso funcional no primeiro uso com GitHub, QR Code e contribuição PIX opcional.
+- Biblioteca inicial vazia, sem rádios, músicas ou preferências usadas nos testes.
+- Versão, documentação, instalador, MSIX e identificação de rede atualizados para 2.3.0.
+- Janela maximizada ajustada à área útil de cada monitor, sem ocultar o player sob a barra de tarefas.
+- Processo de atualização alterado para exibir o assistente e permitir que o usuário acompanhe a instalação.
+
 ## 2.2.0 — Letras sincronizadas
 
 - Painel de letras integrado à tela da capa ampliada.

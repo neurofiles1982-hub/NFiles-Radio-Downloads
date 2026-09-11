@@ -7,7 +7,7 @@ body:
     id: version
     attributes:
       label: Versão do NFiles Radio
-      placeholder: "1.6.0"
+      placeholder: "2.3.0"
     validations:
       required: true
   - type: input

@@ -1,4 +1,4 @@
-# NFiles Radio 2.2
+# NFiles Radio 2.3
 
 <p align="center">
   <img src="assets/nfiles-radio-showcase.png" alt="NFiles Radio para Windows" width="920">
@@ -23,11 +23,19 @@
 
 O NFiles Radio reúne estações online e arquivos de música do computador em um único aplicativo. A interface foi desenhada para permanecer clara e rápida mesmo com bibliotecas grandes, com reprodução em segundo plano, miniplayer, controles pela bandeja do Windows e reconexão automática para streams instáveis.
 
-### Destaques da versão 2.2
+### Destaques da versão 2.3
 
 - Letras sincronizadas ao lado da capa ampliada, com destaque e rolagem automáticos.
 - Fontes locais `.lrc`, letras incorporadas e `.txt`, além de busca opcional no LRCLIB.
 - Clique em uma linha para avançar a música e ajuste persistente da sincronia.
+- **Gapless:** transições contínuas entre músicas compatíveis, sem criar um segundo player concorrente.
+- **ReplayGain:** volume equilibrado por faixa ou álbum, com proteção contra clipping.
+- **Player imersivo:** capa da música aplicada ao fundo com transparência e contraste preservado.
+- **Desempenho:** motor local carregado sob demanda e buffer ajustado para segundo plano.
+- **Histórico confiável:** emissoras repetidas são consolidadas e não reaparecem após a exclusão.
+- **Primeiro uso:** mensagem de boas-vindas com informações do projeto e contribuição opcional.
+- **Janela maximizada:** todo o conteúdo e o player permanecem acima da barra de tarefas.
+- **Atualização visível:** o usuário acompanha o fechamento da versão anterior e a instalação da nova.
 
 - **Descoberta inteligente:** Surpreenda-me, estações semelhantes, recomendações locais e Modo Descoberta compacto.
 - **Busca completa:** filtros por país, estado, gênero, qualidade e popularidade.
@@ -37,6 +45,11 @@ O NFiles Radio reúne estações online e arquivos de música do computador em u
 - **Experiência Windows:** reprodução durante o descanso da tela, notificações, teclas multimídia, temporizador e bandeja do sistema.
 - **Visual acessível:** temas claro, escuro e do sistema, quatro cores de destaque, densidade ajustável e controles com contraste revisado.
 - **Privacidade por padrão:** sem anúncios, conta obrigatória ou telemetria; preferências e biblioteca permanecem no computador.
+- **Instalação realmente limpa:** nenhum arquivo musical, rádio, favorito, histórico ou preferência de teste acompanha o aplicativo.
+
+## Em breve
+
+Integrações oficiais com **Spotify** e **YouTube** estão planejadas. Elas respeitarão as APIs, autenticação, direitos autorais e termos de cada plataforma. Acompanhe o escopo no [roadmap público](ROADMAP.md).
 
 ## Instalação
 

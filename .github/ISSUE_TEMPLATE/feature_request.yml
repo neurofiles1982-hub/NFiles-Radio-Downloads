@@ -15,3 +15,17 @@ body:
       label: Solução sugerida
     validations:
       required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área da sugestão
+      options:
+        - Rádio e reprodução
+        - Player de música
+        - Letras e metadados
+        - Descoberta
+        - Interface e acessibilidade
+        - Spotify ou YouTube
+        - Outro
+    validations:
+      required: true
