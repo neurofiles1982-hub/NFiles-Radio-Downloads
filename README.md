@@ -140,8 +140,6 @@ O NFiles Radio está sendo preparado para uma nova avaliação da Microsoft Stor
 - Conexão com a internet para estações online, busca de capas e atualizações.
 - Aproximadamente 500 MB de espaço disponível.
 
-> **Windows 7 e 8.1:** a versão 2.3 não é compatível com esses sistemas. O aplicativo usa .NET 8, que não oferece suporte a Windows 7/8.1. Uma edição Legacy não está planejada neste momento, para não reduzir a segurança nem dividir os esforços de manutenção e testes.
-
 ## Suporte e comunidade
 
 - [Central de Ajuda](https://neurofiles1982-hub.github.io/NFiles-Radio-Downloads/)

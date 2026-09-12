@@ -58,7 +58,6 @@ As integrações respeitarão APIs, autenticação, direitos autorais e termos o
 - Gravação indiscriminada de transmissões, por questões de direitos autorais e armazenamento.
 - Servidor de controle remoto aberto na rede, para evitar superfície de ataque desnecessária.
 - Televisão, hospedagem de estações e recursos sociais pesados que desviem o foco de rádio e música.
-- Edição para Windows 7/8.1, pois exigiria dependências antigas e uma segunda linha de manutenção sem suporte do sistema operacional.
 
 ## Compromissos do projeto
 
