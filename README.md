@@ -84,7 +84,11 @@ O NFiles Radio reúne estações online e arquivos de música do computador em u
 
 ## Em breve
 
-Integrações oficiais com **Spotify** e **YouTube** estão planejadas. Elas respeitarão as APIs, autenticação, direitos autorais e termos de cada plataforma. Acompanhe o escopo no [roadmap público](ROADMAP.md).
+Estão em estudo o diagnóstico automático das estações, despertador com rádio, pesquisas salvas, importação e exportação M3U/PLS e identificação transparente da saída de áudio informada pelo Windows — como fone ou caixa Bluetooth, alto-falantes, USB, HDMI e fone com cabo.
+
+O aplicativo já possui uma base experimental que procura possíveis receptores FM USB, como RTL-SDR e modelos compatíveis. Essa sondagem ainda não significa sintonia FM e só será apresentada como função quando estiver validada com hardware real.
+
+Integrações oficiais com **Spotify** e **YouTube** também estão planejadas. Elas respeitarão as APIs, autenticação, direitos autorais e termos de cada plataforma. Acompanhe prioridades, limites e andamento no [roadmap público](ROADMAP.md).
 
 ## Instalação
 
@@ -136,7 +140,7 @@ O NFiles Radio está sendo preparado para uma nova avaliação da Microsoft Stor
 - Conexão com a internet para estações online, busca de capas e atualizações.
 - Aproximadamente 500 MB de espaço disponível.
 
-> **Windows 7 e 8.1:** a versão 2.3 não é compatível com esses sistemas. O aplicativo usa .NET 8, que não oferece suporte a Windows 7/8.1. Uma possível edição Legacy está em avaliação, separada da versão principal, para não reduzir a segurança e a estabilidade do aplicativo atual.
+> **Windows 7 e 8.1:** a versão 2.3 não é compatível com esses sistemas. O aplicativo usa .NET 8, que não oferece suporte a Windows 7/8.1. Uma edição Legacy não está planejada neste momento, para não reduzir a segurança nem dividir os esforços de manutenção e testes.
 
 ## Suporte e comunidade
 
