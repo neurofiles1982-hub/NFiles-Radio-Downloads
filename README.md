@@ -30,9 +30,33 @@
   <a href="https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/issues"><img alt="Issues abertas" src="https://img.shields.io/github/issues/neurofiles1982-hub/NFiles-Radio-Downloads?style=for-the-badge&color=f59e0b"></a>
 </p>
 
+## Rádio e música, sem complicação
+
+| | O que o NFiles Radio oferece |
+|---|---|
+| **50 mil+ estações** | Pesquisa em um catálogo comunitário mundial com emissoras de mais de 200 países e territórios. |
+| **Biblioteca expansível** | Salve e organize milhares de emissoras; cada arquivo de backup protegido aceita até 5.000 rádios. |
+| **Dois players em um só app** | Rádio online e biblioteca de músicas locais na mesma interface, sem precisar alternar entre programas. |
+| **100% gratuito** | Sem anúncios, assinatura, funções bloqueadas, conta obrigatória ou telemetria. |
+| **Feito para ser leve** | Listas virtualizadas, capas e logotipos em cache e carregamento sob demanda do motor de música local. |
+| **Pronto para usar** | Instalador autossuficiente de aproximadamente 78 MB: não exige a instalação separada do .NET. |
+
+O catálogo consultado pelo aplicativo registrava **58.370 estações** e **241 países e territórios** em 12 de setembro de 2026. Como esse diretório público é atualizado continuamente, a quantidade e a disponibilidade das emissoras podem variar. [Consulte a documentação e as estatísticas do Radio Browser](https://docs.radio-browser.info/#server-stats).
+
 ## Feito para ouvir, descobrir e organizar
 
-O NFiles Radio reúne estações online e arquivos de música do computador em um único aplicativo. A interface foi desenhada para permanecer clara e rápida mesmo com bibliotecas grandes, com reprodução em segundo plano, miniplayer, controles pela bandeja do Windows e reconexão automática para streams instáveis.
+O NFiles Radio reúne estações online e arquivos de música do computador em um único aplicativo. A interface foi desenhada para permanecer clara e rápida inclusive em computadores mais modestos compatíveis, com reprodução em segundo plano, miniplayer, controles pela bandeja do Windows e reconexão automática para streams instáveis.
+
+### Mais recursos em um aplicativo compacto
+
+- Pesquisa de emissoras por nome, país, estado, gênero, qualidade e popularidade, com até 200 resultados relevantes por consulta.
+- Capas e cards de estações, favoritos, histórico sem duplicações, coleções e rádios ouvidas recentemente.
+- Reprodução local de MP3, FLAC, M4A, AAC, OGG, OPUS, WAV e WMA sem alterar os arquivos originais.
+- Letras sincronizadas, Gapless, ReplayGain, fila, modo aleatório, velocidade e player imersivo.
+- Temporizador para dormir, controles multimídia, bandeja do Windows, miniplayer e reprodução durante o descanso da tela.
+- Temas claro, escuro e do sistema, quatro cores de destaque e densidades confortável ou compacta.
+- Backup e restauração de rádios e favoritos, atualização automática visível e verificação SHA-256 dos instaladores.
+- Cards compartilháveis com QR Code, Modo Descoberta, Surpreenda-me, estações semelhantes e recomendações locais.
 
 ### Destaques da versão 2.3
 
@@ -107,10 +131,12 @@ O NFiles Radio está sendo preparado para uma nova avaliação da Microsoft Stor
 
 ## Requisitos
 
-- Windows 10 versão 1809 ou mais recente, ou Windows 11.
-- Computador x64.
+- Windows 10 versão 1809 ou mais recente, ou Windows 11, em computador x64.
+- Funciona em PCs compatíveis sem placa de vídeo dedicada e sem exigir a instalação separada do .NET.
 - Conexão com a internet para estações online, busca de capas e atualizações.
 - Aproximadamente 500 MB de espaço disponível.
+
+> **Windows 7 e 8.1:** a versão 2.3 não é compatível com esses sistemas. O aplicativo usa .NET 8, que não oferece suporte a Windows 7/8.1. Uma possível edição Legacy está em avaliação, separada da versão principal, para não reduzir a segurança e a estabilidade do aplicativo atual.
 
 ## Suporte e comunidade
 
