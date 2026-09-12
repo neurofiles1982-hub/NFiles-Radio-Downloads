@@ -1,7 +1,7 @@
 # NFiles Radio 2.3
 
 <p align="center">
-  <img src="assets/nfiles-radio-showcase.png" alt="NFiles Radio para Windows" width="920">
+  <img src="assets/nfiles-radio-2.3-player-imersivo.png" alt="Player imersivo do NFiles Radio 2.3 com capa translúcida" width="920">
 </p>
 
 <p align="center">
@@ -70,26 +70,26 @@ O NFiles Radio está sendo preparado para uma nova avaliação da Microsoft Stor
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/nfiles-radio-2.0.3-radios.png" alt="Rádios e player do NFiles Radio"><br>
-      <strong>Rádios e reprodução</strong><br>
-      Navegação direta, favoritos, metadados e controles sempre acessíveis.
+      <img src="assets/nfiles-radio-2.3-biblioteca.png" alt="Biblioteca de músicas do NFiles Radio 2.3"><br>
+      <strong>Biblioteca leve e organizada</strong><br>
+      Pesquisa, capas, metadados e controles sempre acessíveis, mesmo com a janela maximizada.
     </td>
     <td width="50%" align="center">
-      <img src="assets/nfiles-radio-2.0.3-adicionar-radios.png" alt="Pesquisa de estações no NFiles Radio"><br>
+      <img src="assets/nfiles-radio-2.3-pesquisa.png" alt="Pesquisa de estações do NFiles Radio 2.3"><br>
       <strong>Encontre novas estações</strong><br>
-      Pesquise e adicione várias emissoras com filtros úteis.
+      Pesquisa funcional com filtros por país, gênero, estado, popularidade e qualidade.
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/nfiles-radio-2.0.3-musicas.png" alt="Biblioteca de músicas locais"><br>
-      <strong>Sua música local</strong><br>
-      Biblioteca com capas e informações das faixas, sem alterar os originais.
+      <img src="assets/nfiles-radio-2.3-letras.png" alt="Letras sincronizadas sobre capa translúcida no NFiles Radio 2.3"><br>
+      <strong>Letras sincronizadas</strong><br>
+      Destaque e rolagem automáticos sobre a arte translúcida, mantendo a leitura confortável.
     </td>
     <td width="50%" align="center">
-      <img src="assets/nfiles-radio-2.0.3-player-expandido.png" alt="Player expandido do NFiles Radio"><br>
-      <strong>Player expandido</strong><br>
-      Arte em destaque, fila, linha do tempo e controles completos.
+      <img src="assets/nfiles-radio-2.3-player-imersivo.png" alt="Player expandido imersivo do NFiles Radio 2.3"><br>
+      <strong>Player imersivo</strong><br>
+      Capa ampliada e translúcida, linha do tempo, velocidade e controles completos em uma tela limpa.
     </td>
   </tr>
 </table>
