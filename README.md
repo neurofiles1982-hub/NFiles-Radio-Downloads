@@ -1,8 +1,19 @@
 # NFiles Radio 2.3
 
-<p align="center">
-  <img src="assets/nfiles-radio-2.3-player-imersivo.png" alt="Player imersivo do NFiles Radio 2.3 com capa translúcida" width="920">
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/nfiles-radio-2.3-radio.png" alt="Rádios online no NFiles Radio 2.3"><br>
+      <strong>Rádio online</strong><br>
+      Suas emissoras, favoritos e histórico em uma tela rápida e organizada.
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/nfiles-radio-2.3-player-imersivo.png" alt="Player imersivo do NFiles Radio 2.3 com capa translúcida"><br>
+      <strong>Player de música</strong><br>
+      Capa ampliada e translúcida em uma experiência imersiva.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <strong>Rádios do mundo e sua música local em uma experiência leve para Windows.</strong><br>
