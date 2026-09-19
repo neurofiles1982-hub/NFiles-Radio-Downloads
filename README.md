@@ -174,6 +174,5 @@ O NFiles Radio é freeware com código proprietário. O uso é permitido conform
 ---
 
 <p align="center">
-  © 2026 NeuroFiles Technologies ME<br>
-  CNPJ 38.182.471/0001-30
+  © 2026 NeuroFiles Technologies
 </p>
