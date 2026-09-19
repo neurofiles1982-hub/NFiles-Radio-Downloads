@@ -1,19 +1,9 @@
-# NFiles Radio 2.3
+# NFiles Radio 2.4
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="assets/nfiles-radio-2.3-radio.png" alt="Rádios online no NFiles Radio 2.3"><br>
-      <strong>Rádio online</strong><br>
-      Suas emissoras, favoritos e histórico em uma tela rápida e organizada.
-    </td>
-    <td width="50%" align="center">
-      <img src="assets/nfiles-radio-2.3-player-imersivo.png" alt="Player imersivo do NFiles Radio 2.3 com capa translúcida"><br>
-      <strong>Player de música</strong><br>
-      Capa ampliada e translúcida em uma experiência imersiva.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/nfiles-radio-2.3-radio.png" alt="Rádios online no NFiles Radio 2.4"><br>
+  <strong>Rádio online, música local e uma experiência leve para Windows.</strong>
+</p>
 
 <p align="center">
   <strong>Rádios do mundo e sua música local em uma experiência leve para Windows.</strong><br>
@@ -58,7 +48,15 @@ O NFiles Radio reúne estações online e arquivos de música do computador em u
 - Backup e restauração de rádios e favoritos, atualização automática visível e verificação SHA-256 dos instaladores.
 - Cards compartilháveis com QR Code, Modo Descoberta, Surpreenda-me, estações semelhantes e recomendações locais.
 
-### Destaques da versão 2.3
+### Destaques da versão 2.4
+
+- **Miniporta-retratos:** player flutuante para música local com fotografias escolhidas pelo usuário, encaixe automático e perfis Leve ou Qualidade original.
+- **Visual discreto:** informações e controles aparecem com o movimento do mouse e se ocultam automaticamente para deixar a fotografia em destaque.
+- **Equalizador profissional:** dez bandas, perfis prontos e proteção automática contra distorção.
+- **Reprodução local corrigida:** clicar em uma música volta a iniciar a reprodução normalmente; o instalador agora bloqueia builds sem os módulos de áudio obrigatórios.
+- **Compatibilidade defensiva:** instalações antigas podem recorrer ao motor VLC quando o mecanismo local avançado não estiver disponível.
+
+### Recursos consolidados da versão 2.3
 
 - Letras sincronizadas ao lado da capa ampliada, com destaque e rolagem automáticos.
 - Fontes locais `.lrc`, letras incorporadas e `.txt`, além de busca opcional no LRCLIB.
@@ -100,7 +98,7 @@ Confira a integridade do arquivo com o [SHA-256 publicado](https://github.com/ne
 
 ### Microsoft Store
 
-O NFiles Radio está sendo preparado para uma nova avaliação da Microsoft Store. A página oficial da Store será atualizada após a aprovação.
+O **NFiles Radio já está publicado na Microsoft Store**. Procure por “NFiles Radio” no aplicativo Microsoft Store do Windows ou use o instalador oficial desta página.
 
 > Use somente os downloads publicados em [Releases](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/releases) ou a página oficial da Microsoft Store.
 
@@ -149,6 +147,15 @@ O NFiles Radio está sendo preparado para uma nova avaliação da Microsoft Stor
 - [Histórico de versões](CHANGELOG.md)
 
 Ao relatar um erro, informe a versão do NFiles Radio, a versão do Windows, o resultado esperado e os passos para reproduzir. Não publique dados pessoais. Vulnerabilidades devem ser comunicadas pelo [canal privado de segurança](https://github.com/neurofiles1982-hub/NFiles-Radio-Downloads/security/advisories/new), nunca por uma Issue pública.
+
+## Apoie voluntariamente
+
+O NFiles Radio é gratuito. Se ele for útil, você pode apoiar voluntariamente seu desenvolvimento. A doação é opcional, não libera recursos extras e não altera o suporte.
+
+- PIX: `nfilesia@gmail.com`
+- PayPal: `alessandrosc5@hotmail.com`
+
+<img src="assets/apoie-nfiles-radio-pix.png" alt="QR Code PIX para apoio voluntário ao NFiles Radio" width="220">
 
 ## Privacidade e licença
 
