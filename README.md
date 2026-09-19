@@ -150,7 +150,15 @@ Ao relatar um erro, informe a versão do NFiles Radio, a versão do Windows, o r
 
 ## Apoie voluntariamente
 
-O NFiles Radio é gratuito. Se ele for útil, você pode apoiar voluntariamente seu desenvolvimento. A doação é opcional, não libera recursos extras e não altera o suporte.
+O NFiles Radio nasceu de uma necessidade simples e genuína: ouvir rádio e músicas com qualidade sem exigir um computador moderno ou muita memória. Seu criador, **Alessandro Carvalho, estudante de Engenharia de Software**, iniciou o projeto usando um computador antigo e bastante limitado — com placa de 2002, memória DIMM DDR2 e processador Dual Core.
+
+Em vez de considerar esse equipamento um obstáculo, ele virou a referência do projeto: se o NFiles Radio pudesse oferecer uma experiência bonita, útil e leve naquele computador, também poderia atender pessoas que ainda usam máquinas modestas e não querem ser deixadas para trás pela tecnologia.
+
+O aplicativo cresceu com essa missão. Hoje reúne rádios do mundo, reprodução de músicas locais e recursos modernos, mas continua procurando respeitar cada megabyte de memória e cada usuário. **O NFiles Radio continuará gratuito** e seguirá recebendo atualizações para reforçar sua segurança, corrigir problemas e trazer melhorias.
+
+Se o aplicativo fizer diferença no seu dia a dia e você quiser colaborar, qualquer apoio voluntário ajuda a manter o desenvolvimento, os testes e a evolução do projeto. Doar não libera recursos extras e não muda o atendimento: todos recebem o mesmo aplicativo completo.
+
+Sua participação não precisa ser financeira. Relatar um problema, sugerir uma melhoria, avaliar o projeto e contar sua experiência também ajuda muito. **A opinião de cada pessoa é importante para decidir os próximos passos do NFiles Radio.**
 
 - PIX: `nfilesia@gmail.com`
 - PayPal: `alessandrosc5@hotmail.com`
