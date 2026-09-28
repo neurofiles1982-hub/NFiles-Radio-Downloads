@@ -1,7 +1,7 @@
-# NFiles Radio 2.4
+# NFiles Radio
 
 <p align="center">
-  <img src="assets/nfiles-radio-2.3-radio.png" alt="Rádios online no NFiles Radio 2.4"><br>
+  <img src="assets/nfiles-radio-2.4-radio.png" alt="Rádios online no NFiles Radio 2.4"><br>
   <strong>Rádio online, música local e uma experiência leve para Windows.</strong>
 </p>
 
